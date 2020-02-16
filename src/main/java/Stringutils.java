@@ -10,12 +10,12 @@ public class Stringutils {
     //Reverses the string
     public static void main(String[] args){
         //tests for c
-        String testString = "This is a test string.";
-        System.out.println(reverseString(testString));
+//        String testString = "This is a test string.";
+//        System.out.println(reverseString(testString));
 
         //tests for b
-        String testString2 = "This Is Another Test String With Capitalized First Letters.";
-        System.out.println(flipCase(testString2));
+//        String testString2 = "This Is Another Test String With Capitalized First Letters.";
+//        System.out.println(flipCase(testString2));
 
         //test for output
         System.out.println(inputManipulation());
